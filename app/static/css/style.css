@@ -1,0 +1,20 @@
+body{
+    background:#f5f7fa;
+}
+
+.card{
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,.15);
+}
+
+.btn{
+    border-radius:10px;
+}
+
+.navbar-brand{
+    font-weight:bold;
+}
+
+h1{
+    font-weight:700;
+}
